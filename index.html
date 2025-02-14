@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Wanna be My Valentine??</title>
+    <link rel="icon" href="https://cdn.pixabay.com/photo/2018/01/21/21/11/heart-3097550_960_720.png" type="image/png" />
+
+    <link rel="stylesheet" href="style.css" />
+   </head>
+  <body>
+    <div class="flex f-aps">
+      <p>
+        Made with ❤️ (for you cutieeees) by
+        <a rel="noopener" href="https://github.com/Skiee9" target="_blank">Ayushi</a>
+        </p>
+      </p>
+      <a rel="noopener" target="_blank" href="https://github.com/Skiee9">
+        <img
+          class="image2"
+          src="./assets/heart.gif"
+          alt="heyy"
+          id="heart1"
+        />
+      </a>
+    </div>
+    <h1 class="headerText" id="wedate">Do you want to be my Valentine? 🥺</h1>
+    <img class="image" src="./assets/happy1.gif" alt="heyy" id="mainImg" />
+    <div class="flex" id="btns">
+      <button
+        class="button"
+        id="yes"
+        onmouseenter="happy()"
+        onmouseleave="normal()"
+        onclick="yes()"
+      >
+        Yes 🥰
+      </button>
+      <button
+        class="button"
+        id="no"
+        onmouseenter="angry()"
+        onmouseleave="normal()"
+        onclick="no()"
+      >
+        No 😭
+      </button>
+    </div>
+    <div class="absImages" id="absImg">
+      <img class="image1" src="./assets/heart.gif" alt="heyy" />
+      <img class="image1" src="./assets/heart.gif" alt="heyy" />
+      <img class="image1" src="./assets/heart.gif" alt="heyy" />
+      <img class="image1" src="./assets/heart.gif" alt="heyy" />
+      <img class="image1" src="./assets/heart.gif" alt="heyy" />
+      <img class="image1" src="./assets/heart.gif" alt="heyy" />
+      <img class="image1" src="./assets/heart.gif" alt="heyy" />
+      <img class="image1" src="./assets/heart.gif" alt="heyy" />
+      <img class="image1" src="./assets/heart.gif" alt="heyy" />
+      <img class="image1" src="./assets/heart.gif" alt="heyy" />
+
+      
+    </div>
+
+    <div class="model" id="model2">
+      <audio id="happyMusic" style="opacity: 0" controls loop>
+        <source src="./assets/resources_happy (1).mp3" type="audio/mp3" />
+        Your browser does not support the audio element.
+      </audio>
+      <div class="model-content">
+        <p class="modelText" id="modelText2">I Love you 😘😘</p>
+        <img
+          class="modelImg"
+          id="modelImg2"
+          src="./assets/happy3.gif"
+          alt="heyy"
+        />
+        <button
+          class="button"
+          id="yes"
+          onmouseenter="happy()"
+          onmouseleave="normal()"
+          onclick="ly2()"
+        >
+          Love You Too 🥰
+        </button>
+      </div>
+    </div>
+
+    <div id="model" class="model">
+      <audio id="sadMusic" style="opacity: 0" controls loop>
+        <source src="./assets/sad.mp3" type="audio/mp3" />
+        Your browser does not support the audio element.
+      </audio>
+      <div class="model-content">
+        <p class="modelText" id="modelText">Please</p>
+        <img
+          class="modelImg"
+          id="modelImg"
+          src="./assets/sad1.gif"
+          alt="heyy"
+        />
+        <div class="flex">
+          <button
+            class="button"
+            id="yes"
+            onmouseenter="happy()"
+            onmouseleave="normal()"
+            onclick="yes()"
+          >
+            Yes 🥰
+          </button>
+          <button
+            class="button"
+            id="no"
+            onmouseenter="angry()"
+            onmouseleave="normal()"
+            onclick="no()"
+          >
+            No 😭
+          </button>
+        </div>
+      </div>
+    </div>
+  </body>
+  <script src="script.js"></script>
+</html>
