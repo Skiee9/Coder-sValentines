@@ -7,7 +7,6 @@ A creative and interactive Valentine's proposal idea to make your special moment
 - **Romantic Message Reveal** ✨  
 - **Interactive Yes/No Buttons** 💖  
 - **Surprise Animations & Cute Graphics** 🎨  
-- **Personalized Love Notes** 💌  
 - **Responsive Design for Mobile & Desktop** 📱💻  
 
 ## 💡 How It Works  
@@ -20,7 +19,7 @@ A creative and interactive Valentine's proposal idea to make your special moment
 
 ## 📷 Screenshot  
 
-![Screenshot](screenshot.png)  
+![Screenshot](![image](https://github.com/user-attachments/assets/5e70eb7c-d347-4737-9ced-863fdc1799d8))  
 
 ## 🚀 Getting Started  
 
