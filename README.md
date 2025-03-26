@@ -19,7 +19,8 @@ A creative and interactive Valentine's proposal idea to make your special moment
 
 ## 📷 Screenshot  
 
-![Screenshot](![image](https://github.com/user-attachments/assets/5e70eb7c-d347-4737-9ced-863fdc1799d8))  
+![image](https://github.com/user-attachments/assets/666c24df-b9e8-4b86-9387-1a6257bf6f25)
+
 
 ## 🚀 Getting Started  
 
